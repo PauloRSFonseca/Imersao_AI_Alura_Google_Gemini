@@ -1,2 +1,2 @@
 # Imersao_Alura_Google
-Imersão da Alura Ai com o Google, 2024
+Imersão Ai da Alura com o Google, 2024
